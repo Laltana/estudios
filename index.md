@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Un blog sobre cómo estudiar por cuenta propia
 ---
 
